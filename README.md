@@ -9,4 +9,4 @@ make Assignment2
 ./Assignment2
 ``
 #### 4. Read the Assignment_02.pdf for clarification of deliverables and program capabilities!
-#### 5. For this project, I was given starter code which I built upon based on the Assignment_02 instructions. I contributed solely to the C++ code.
+#### 5. For this project, I was given starter code which I built upon based on the Assignment_02 instructions. I contributed solely to the C++ code (.cpp and .h).
