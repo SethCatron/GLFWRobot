@@ -8,4 +8,4 @@ make Assignment2
 ``
 ./Assignment2
 ``
-#### 4. Read the Assignment_01.pdf for clarification of deliverables and program capabilities!
+#### 4. Read the Assignment_02.pdf for clarification of deliverables and program capabilities!
