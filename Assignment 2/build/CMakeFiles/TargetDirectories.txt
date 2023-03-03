@@ -1,0 +1,22 @@
+/Users/sethjohnston/Documents/CSCE441/Assignment 2/build/CMakeFiles/Assignment2.dir
+/Users/sethjohnston/Documents/CSCE441/Assignment 2/build/CMakeFiles/edit_cache.dir
+/Users/sethjohnston/Documents/CSCE441/Assignment 2/build/CMakeFiles/rebuild_cache.dir
+/Users/sethjohnston/Documents/CSCE441/Assignment 2/build/CMakeFiles/list_install_components.dir
+/Users/sethjohnston/Documents/CSCE441/Assignment 2/build/CMakeFiles/install.dir
+/Users/sethjohnston/Documents/CSCE441/Assignment 2/build/CMakeFiles/install/local.dir
+/Users/sethjohnston/Documents/CSCE441/Assignment 2/build/CMakeFiles/install/strip.dir
+/Users/sethjohnston/Documents/CSCE441/glfw-3.3.8/debug/CMakeFiles/uninstall.dir
+/Users/sethjohnston/Documents/CSCE441/glfw-3.3.8/debug/CMakeFiles/edit_cache.dir
+/Users/sethjohnston/Documents/CSCE441/glfw-3.3.8/debug/CMakeFiles/rebuild_cache.dir
+/Users/sethjohnston/Documents/CSCE441/glfw-3.3.8/debug/CMakeFiles/list_install_components.dir
+/Users/sethjohnston/Documents/CSCE441/glfw-3.3.8/debug/CMakeFiles/install.dir
+/Users/sethjohnston/Documents/CSCE441/glfw-3.3.8/debug/CMakeFiles/install/local.dir
+/Users/sethjohnston/Documents/CSCE441/glfw-3.3.8/debug/CMakeFiles/install/strip.dir
+/Users/sethjohnston/Documents/CSCE441/glfw-3.3.8/debug/src/CMakeFiles/update_mappings.dir
+/Users/sethjohnston/Documents/CSCE441/glfw-3.3.8/debug/src/CMakeFiles/glfw.dir
+/Users/sethjohnston/Documents/CSCE441/glfw-3.3.8/debug/src/CMakeFiles/edit_cache.dir
+/Users/sethjohnston/Documents/CSCE441/glfw-3.3.8/debug/src/CMakeFiles/rebuild_cache.dir
+/Users/sethjohnston/Documents/CSCE441/glfw-3.3.8/debug/src/CMakeFiles/list_install_components.dir
+/Users/sethjohnston/Documents/CSCE441/glfw-3.3.8/debug/src/CMakeFiles/install.dir
+/Users/sethjohnston/Documents/CSCE441/glfw-3.3.8/debug/src/CMakeFiles/install/local.dir
+/Users/sethjohnston/Documents/CSCE441/glfw-3.3.8/debug/src/CMakeFiles/install/strip.dir
